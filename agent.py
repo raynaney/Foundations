@@ -2,7 +2,6 @@
 
 import numpy as np
 import utils
-""" test pull request """
 
 class QAgent:
     
